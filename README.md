@@ -1,10 +1,7 @@
 # Welcome to My GitHub Repository
 ## About Me
 
-Hello! I'm a passionate student currently pursuing my studies at VIT-AP, with a keen interest in the exciting and ever-evolving fields of Artificial Intelligence (AI) and Deep Learning. This GitHub repository serves as a platform for me to showcase my learning journey and share my projects and explorations in these domains.
-What You'll Find Here
-
-In this repository, you'll discover a variety of projects, code snippets, and resources related to AI and Deep Learning. My aim is to not only learn but also contribute to the AI community by sharing my experiences and insights.
+Hello! I'm a passionate student currently pursuing my studies at VIT-AP, with an interest in the field of Artificial Intelligence (AI) and Deep Learning. 
 
 Some of the topics and areas I'm currently exploring include:
 
