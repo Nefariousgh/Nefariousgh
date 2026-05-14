@@ -1,7 +1,7 @@
 # Welcome to My GitHub Repository
 ## About Me
 
-Hello! I'm a passionate student currently pursuing my studies at VIT-AP, with an interest in the field of Artificial Intelligence (AI) and Deep Learning. 
+Hello! I'm a grad student at Northeastern. 
 
 Some of the topics and areas I'm currently exploring include:
 
